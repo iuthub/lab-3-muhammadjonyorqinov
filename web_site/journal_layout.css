@@ -1,0 +1,72 @@
+body {
+	background-image: url("images/background.gif");
+	
+}
+.full{
+	border: 10px white solid;
+	background-color: white;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+#header{
+	 background-color:  #A8F0F0;
+	text-align-last: right; 
+}
+.col1{
+	border: 4px;
+	border-color:  #C2E9E9 ;
+	border-style: solid;
+	background-color: #A8FFF0;
+	float: left;
+	padding: 5px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.friends{
+	height: 500px;
+	overflow: hidden;
+	float: left;
+
+}
+img{
+	float: right;
+
+}
+img:hover{
+background-color: yellow;
+
+}
+.spatulas{
+	border: 4px;
+	border-color:  #C2E9E9 ;
+	border-style: solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	
+	overflow: auto;
+}
+ h2:hover, p:hover, h1:hover{
+	background-color: yellow;
+}
+
+.cook{
+	border: 4px;
+	border-color: #C2E9E9 ;
+	border-style: solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+		
+	overflow: auto;
+}
+
+
+.spans{
+	border-right: 0px;
+	border-left: 0px;
+	border-top: 0px;
+	border-bottom: 2px; 
+	border-color:#009097;  
+	border-style: dashed;
+}
